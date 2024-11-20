@@ -16,6 +16,11 @@
 ![Payment Page](/frontend/public/payment-page.png)
 
 
+## 🎉 Live Demo
+
+Check out the live applications:
+- E-commerce Store: https://e-commerce-store-5exg.onrender.com
+
 ## About This Course:
 An advanced E-Commerce Store built to showcase the complete lifecycle of an online shopping platform. This project incorporates cutting-edge technologies and best practices, making it an ideal addition to your resume. From robust authentication to seamless payment integration, this project demonstrates proficiency in full-stack development with a focus on scalability, security, and performance.
 
